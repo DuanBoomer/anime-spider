@@ -43,3 +43,6 @@ Production errors are something that are just unexpected and pop up anywhere any
 
 The dashboard made with Tableau is a extra addition to this project which helps in visualizing the database dynamically. Production of it was easy, the hardest part was themeing it so that it was pleasing to look at. The most interesting finding was that most of the top anime on the site were actually quite old and only a handfull of animes from the listing were still airing.
 That was the whole story of how this project got made. If you have made it this far, thank you so much for giving me your and attention.
+
+<br>[![PyPI Downloads](https://img.shields.io/badge/Made%20with%20%F0%9F%92%96%20by-Chirag-brightgreen?style=for-the-badge&logo=appveyor)](
+https://github.com/DuanBoomer)
